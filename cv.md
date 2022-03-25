@@ -3,8 +3,6 @@
 
 ## Контакты для связи
 
-
-
 ### Почта
 maslonyam@gmail.com
 
@@ -15,8 +13,6 @@ maslonyam@gmail.com
 
 ### Телеграм
 https://t.me/maslonyam
-
-
 
 
 ## Обо мне
@@ -36,8 +32,8 @@ https://t.me/maslonyam
 
 
 ### **Верстка:**
-  * HTML (Семантическая верстка, формы)
-  * CSS (Flex, Grid, Адаптивная верстка, анимации)
+  * HTML *(Семантическая верстка, формы)*
+  * CSS *(Flex, Grid, Адаптивная верстка, анимации)*
   * SASS
   * Методология BEM
   * Atomic CSS
@@ -89,23 +85,36 @@ https://t.me/maslonyam
 * Аудиоплеер
   * [Ссылка на деплой](https://maslonyam.github.io/rss_stage-0/audio-player/)
   * [Ссылка на исходный код](https://github.com/maslonyam/rss_stage-0/tree/audio-player) 
-  * Ключевой навык - работа с аудиофайлами, адаптивная верстка
+  * Ключевые навыки:
+    * работа с аудиофайлами
+    * адаптивная верстка
+
 * Портфолио
   * [Ссылка на деплой](https://maslonyam.github.io/rss_stage-0/portfolio/) 
   * [Ссылка на исходный код](https://github.com/maslonyam/rss_stage-0/tree/portfolio)
-  * Ключевые навыки - адаптивная верстка, изменение состояний сайт (переключение тем и языков)
+  * Ключевые навыки:
+    * адаптивная верстка
+    * изменение состояний сайт *(переключение тем и языков)*
 * Видео поисковик
   * [Ссылка на деплой](https://rolling-scopes-school.github.io/maslonyam-JSFEPRESCHOOL/movie-app/) 
   * [Ссылка на исходный код](https://github.com/rolling-scopes-school/maslonyam-JSFEPRESCHOOL/tree/movie-app/movie-app)
-  * Ключевые навыки - AJAX, адаптивная верстка, API
+  * Ключевые навыки:
+    * AJAX
+    * API
+    * адаптивная верстка
 * Игра 2048
   * [Ссылка на деплой](https://rolling-scopes-school.github.io/maslonyam-JSFEPRESCHOOL/random-app/) 
   * [Ссылка на исходный код](https://github.com/rolling-scopes-school/maslonyam-JSFEPRESCHOOL/tree/random-app)
-  * Ключевые навыки - адаптивная верстка, работа с localStorage
+  * Ключевые навыки:
+    * адаптивная верстка
+    * работа с localStorage
 * Сайт компании
   * [Ссылка на деплой](https://maslonyam.github.io/insta-test/)
   * [Ссылка на исходный код](https://github.com/maslonyam/insta-test)
-  * Ключевые навыки - адаптивная верстка, BEM, работа с масками и SVG
+  * Ключевые навыки: 
+    * адаптивная верстка
+    * BEM
+    * работа с масками и SVG
 
 ## Образование
 
