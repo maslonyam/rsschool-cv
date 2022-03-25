@@ -71,12 +71,15 @@ https://t.me/maslonyam
 
 ### **Add property to every object in array**
 
-    ```
+  ```
     function addProp(array) {
-      return array.forEach(object => object.usersAnswer = null);
+      return array.forEach((object) => {
+        object.usersAnswer = null;
+      });
     }
+
     addProp(questions);
-    ```
+  ```
 
 
 ## Опыт работы.
@@ -84,24 +87,24 @@ https://t.me/maslonyam
 
 **Проекты:**
 * Аудиоплеер
-  * Ссылка на деплой: https://maslonyam.github.io/rss_stage-0/audio-player/
-  * Ссылка на исходный код: https://github.com/maslonyam/rss_stage-0/tree/audio-player 
+  * [Ссылка на деплой](https://maslonyam.github.io/rss_stage-0/audio-player/)
+  * [Ссылка на исходный код](https://github.com/maslonyam/rss_stage-0/tree/audio-player) 
   * Ключевой навык - работа с аудиофайлами, адаптивная верстка
 * Портфолио
-  * Ссылка на деплой: https://maslonyam.github.io/rss_stage-0/portfolio/ 
-  * Ссылка на исходный код: https://github.com/maslonyam/rss_stage-0/tree/portfolio
+  * [Ссылка на деплой](https://maslonyam.github.io/rss_stage-0/portfolio/) 
+  * [Ссылка на исходный код](https://github.com/maslonyam/rss_stage-0/tree/portfolio)
   * Ключевые навыки - адаптивная верстка, изменение состояний сайт (переключение тем и языков)
 * Видео поисковик
-  * Ссылка на деплой: https://rolling-scopes-school.github.io/maslonyam-JSFEPRESCHOOL/movie-app/ 
-  * Ссылка на исходный код: https://github.com/rolling-scopes-school/maslonyam-JSFEPRESCHOOL/tree/movie-app/movie-app 
+  * [Ссылка на деплой](https://rolling-scopes-school.github.io/maslonyam-JSFEPRESCHOOL/movie-app/) 
+  * [Ссылка на исходный код](https://github.com/rolling-scopes-school/maslonyam-JSFEPRESCHOOL/tree/movie-app/movie-app)
   * Ключевые навыки - AJAX, адаптивная верстка, API
 * Игра 2048
-  * Ссылка на деплой: https://rolling-scopes-school.github.io/maslonyam-JSFEPRESCHOOL/random-app/ 
-  * Ссылка на исходный код: https://github.com/rolling-scopes-school/maslonyam-JSFEPRESCHOOL/tree/random-app 
+  * [Ссылка на деплой](https://rolling-scopes-school.github.io/maslonyam-JSFEPRESCHOOL/random-app/) 
+  * [Ссылка на исходный код](https://github.com/rolling-scopes-school/maslonyam-JSFEPRESCHOOL/tree/random-app)
   * Ключевые навыки - адаптивная верстка, работа с localStorage
 * Сайт компании
-  * Ссылка на деплой: https://maslonyam.github.io/insta-test/ 
-  * Ссылка на исходный код: https://github.com/maslonyam/insta-test 
+  * [Ссылка на деплой](https://maslonyam.github.io/insta-test/)
+  * [Ссылка на исходный код](https://github.com/maslonyam/insta-test)
   * Ключевые навыки - адаптивная верстка, BEM, работа с масками и SVG
 
 ## Образование
@@ -119,11 +122,11 @@ https://t.me/maslonyam
 
 ### **Курсы:**
 ####  *«JavaScript/Front-end. PreSchool»*  
-  Ссылка на курс: https://rs.school/js-stage0/  
+  [Ссылка на курс](https://rs.school/js-stage0/)  
   **2021 - 2022** 
 
 ####  *«JavaScript/Front-end»*
-  Ссылка на курс: https://rs.school/js/  
+  [Ссылка на курс](https://rs.school/js/)  
   **2022**
 
 
